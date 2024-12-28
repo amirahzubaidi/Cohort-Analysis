@@ -36,3 +36,5 @@ Membandingkan persentase pelanggan yang melakukan pembelian ulang pada setiap co
 Kemudian, kita lakukan pivot table dengan index ‘first_cohort’, kolom ‘cohort_distance’, dan values ‘CustomerID’.
 
 ##### 6. Visualisasi Cohort pada Heatmap
+
+Link data: https://www.kaggle.com/datasets/carrie1/ecommerce-data
